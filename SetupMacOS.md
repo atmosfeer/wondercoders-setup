@@ -36,7 +36,7 @@ Now you need to download the challenges [using this link](https://www.dropbox.co
 
 Make sure Docker is running first. An icon of a whale should appear top right on your computer, looking like this:
 
-![](images/docker-logo)
+![](images/docker-logo.png)
 
 If not, just click the magnifying glass and type Docker to start the application.
 
