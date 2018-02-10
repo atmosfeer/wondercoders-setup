@@ -17,7 +17,7 @@ Please choose your operating system (OS):
     <td>
       <h2>Windows</h2>
       <a href="SetupWindows.md">
-        <img src="images/windows.jpg" alt="Windows">
+        <img src="images/windows-logo.jpg" alt="Windows">
       </a>
     </td>
   </tr>
